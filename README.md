@@ -1,6 +1,5 @@
 # 机器翻译
 *   一个使用keras框架通过Sequence To Sequence模型训练出的简单机器翻译。  
-*   在线体验：[http://ai.luojiangtao.com:8001](http://ai.luojiangtao.com:8001)
 
 ![效果截图](https://raw.githubusercontent.com/luojiangtao/seq2seq_keras_translate/master/1.png)  
 
